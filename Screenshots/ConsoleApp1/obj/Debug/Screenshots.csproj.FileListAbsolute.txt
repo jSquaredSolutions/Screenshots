@@ -1,0 +1,7 @@
+C:\Users\Jsquared\Desktop\Screenshots\Screenshots\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Jsquared\Desktop\Screenshots\Screenshots\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Jsquared\Desktop\Screenshots\Screenshots\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Jsquared\Desktop\Screenshots\Screenshots\ConsoleApp1\obj\Debug\Screenshots.csprojResolveAssemblyReference.cache
+C:\Users\Jsquared\Desktop\Screenshots\Screenshots\ConsoleApp1\obj\Debug\Screenshots.csproj.CoreCompileInputs.cache
+C:\Users\Jsquared\Desktop\Screenshots\Screenshots\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Jsquared\Desktop\Screenshots\Screenshots\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
