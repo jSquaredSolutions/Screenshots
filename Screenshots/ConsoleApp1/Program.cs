@@ -19,7 +19,7 @@ namespace ConsoleApp1
       e => FullScreenshot(),
       null,
       TimeSpan.Zero,
-      TimeSpan.FromSeconds(10));
+      TimeSpan.FromSeconds(5));
             Console.ReadLine();
         }
 
